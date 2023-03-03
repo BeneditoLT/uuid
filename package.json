@@ -1,0 +1,17 @@
+{
+  "name": "uuid",
+  "type": "module",
+  "description": "",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+    "author": "",
+  "license": "ISC",
+  "dependencies":{
+    "uuid":"^9.0.0"
+
+
+  }
+
+}
